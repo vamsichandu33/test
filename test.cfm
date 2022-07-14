@@ -8,12 +8,12 @@
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/dark.css">
 </head>
 <body>
-	<h1>Registration Form vamsi vamsi</h1>
+	<h1>Registration Form Mahesh Mahesh</h1>
 	<form action="actionfile.cfm" method="POST">
 		<label>FirstName : </label>
 		<input type="text"  name="fname">
 
-		<label >LastName 1241312121242412 : </label>
+		<label >LastName  : </label>
 		<input type="text" name="lname">
 
 		<label>City : </label>
