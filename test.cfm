@@ -16,10 +16,10 @@
 		<label >LastName 1241312121242412 : </label>
 		<input type="text" name="lname">
 
-		<label>City123456 : </label>
+		<label>City : </label>
 		<input type="text" name="city">
 
-		<label> State 234234234234: </label>
+		<label> State: </label>
 		<input type="text" name="state">
 
 		<label> Address :</label>
